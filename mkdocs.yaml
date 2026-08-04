@@ -1,0 +1,24 @@
+site_name: Base Hube
+site_description: >-
+  My little base sheet
+
+# Repository
+repo_name: zensical/zensical
+repo_url: https://github.com/Dezpyer/base-hub
+edit_uri: https://github.com/Dezpyer/base-hub/docs/edit/main/docs/
+
+# Copyright
+copyright: "Lana spend 1.9"
+
+# Configuration
+theme:
+  name: material
+
+# Plugins
+plugins:
+  - search
+  - tags
+
+nav:
+  - Overview: index.md
+  - Base Collection: bases.md
