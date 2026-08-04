@@ -40,6 +40,9 @@ plugins:
   - search
   - tags
 
+markdown_extensions:
+  - zensical.extensions.glightbox
+
 nav:
   - Overview: index.md
   - Base Collection: bases.md
