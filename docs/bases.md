@@ -5,7 +5,7 @@ Here you find bases
 
 ### Anti Everything
 
-![Image](../assets/th18/fatcountry82.png)
+![fatcountry82](assets/th18/fatcountry82.png)
 
 | Rating | Name         | CC               | Seasonal Defense | Base Link                                                                                                       |
 | ------ | ------------ | ---------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
