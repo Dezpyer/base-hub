@@ -41,7 +41,7 @@ ___
 
 
 ### Anti Ground
-![cwl_pack_august_10](assets/th18/cwl_pack_august_10.png)
+![cwl_august_10](assets/th18/cwl_august_10)
 
 | Rating | Name         | CC               | Seasonal Defense | Base Link                                                                                                       |
 | ------ | ------------ | ---------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
