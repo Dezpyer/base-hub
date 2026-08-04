@@ -41,13 +41,6 @@ ___
 
 
 ### Anti Ground
-![cwl_august_10](assets/th18/cwl_august_10)
-
-| Rating | Name         | CC               | Seasonal Defense | Base Link                                                                                                       |
-| ------ | ------------ | ---------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
-| ⭐⭐⭐⭐⭐  | August CWL 10 | 3 IG 10 Archer | Candle    | [Base-Link](https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAABQAAAAMOf8a7HyQ7Y9DtWnS_5kzB) |
-
-___
 
 ### Anti Air
 ![mybase](assets/th18/mybase.png)
@@ -63,7 +56,7 @@ ___
 ### Throwers
 
 ### Anti QC
-![cwl_pack_august_10](assets/th18/cwl_pack_august_10.png)
+![cwl_pack_august_10](assets/th18/cwl_august_10.png)
 
 | Rating | Name         | CC               | Seasonal Defense | Base Link                                                                                                       |
 | ------ | ------------ | ---------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
