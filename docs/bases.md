@@ -63,3 +63,10 @@ ___
 | ⭐⭐⭐⭐⭐  | August CWL 10 | 3 IG 10 Archer | Candle    | [Base-Link](https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAABQAAAAMOf8a7HyQ7Y9DtWnS_5kzB) |
 
 ___
+![bob3](assets/th18/bob3.png)
+
+| Rating | Name         | CC               | Seasonal Defense | Base Link                                                                                                       |
+| ------ | ------------ | ---------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| ⭐⭐⭐⭐⭐  | BOB 3 | 3 IG 10 Archer | Candle    | [Base-Link](https://link.clashofclans.com/en?action=OpenLayout&id=TH18%3AWB%3AAAAABQAAAAMOrCVk5f-4nprmxLzqFu1L) |
+
+___
